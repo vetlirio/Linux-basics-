@@ -1,5 +1,6 @@
 Directories
 
+
 As we mentioned before, a directory is just a location in a filesystem that can contain files and other directories. On some systems, directories are called "folders", but it's the same thing.
 The mkdir Command
 
